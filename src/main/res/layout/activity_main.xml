@@ -50,9 +50,9 @@
 
         <ImageButton
             android:id="@+id/imageButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="5dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="20dp"
             android:maxWidth="200dp"
             android:maxHeight="200dp"
             android:scaleType="fitCenter"
@@ -61,9 +61,9 @@
 
         <ImageButton
             android:id="@+id/imageButton2"
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:layout_marginLeft="20dp"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginLeft="170dp"
             android:adjustViewBounds="true"
             android:maxWidth="200dp"
             android:maxHeight="200dp"
